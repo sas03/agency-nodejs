@@ -1,3 +1,2 @@
-Nom: Sumo 
-Prenom: Stephane
+Sumo Stephane
 
